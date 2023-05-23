@@ -6,5 +6,5 @@ Additional information on how the ODRI moudele has to be assembled: <a href="htt
 ## Carbon fibre tubes
 The carbon fibre tubes have to been cut in the right length: <br />
 4 times: ![plot](renders/cft_1_page-0001.jpg) <br />
-2 times:  ![plot](renders/topTube (400mm) (2)_page-0001.jpg)<br />
+2 times:  ![plot](renders/topTube (400mm) (2)_page-0001.jpg) <br />
 1 times:  ![plot](renders/joint4shaft (59mm)_page-0001.jpg) <br />
