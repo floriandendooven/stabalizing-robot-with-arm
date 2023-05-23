@@ -6,3 +6,8 @@ Open-source hardware and software for arm that can stabalize a locomotive robots
 ## Elctronics
 
 ## Software
+
+## Authors
+Florian Dendooven
+Arno Lehouck
+Jasper Vandenameele-Lepla
