@@ -1,2 +1,4 @@
-# stabalizing-robot-with-arm
-Open-source hardware and software for arm that can stabalize a locomotive robots
+# Stabalizing robot with the use of a robot arm
+Open-source hardware and software for arm that can stabalize a locomotive robots. 
+
+## Hardware
